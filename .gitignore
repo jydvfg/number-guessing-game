@@ -1,0 +1,17 @@
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore other unnecessary files
+.vs/
+*.pdb
+*.opendb
+
+# Ignore node_modules if using Node.js
+node_modules/
